@@ -1,1 +1,1 @@
-# Popular-Neural-Network-Layers-Implementation
+# This repository contains implementation of popular layers from scratch
